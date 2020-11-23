@@ -7,7 +7,8 @@ using namespace std;
 
 int bookAppointment()
 {
-    system("clear");
+    system("cls");
+    system("color 56");
 	
     cout<<"\n ----- Book Your Appointment ---- \n";	
     cout<<"\n ----- Availbale slots ---- \n";	 
@@ -85,7 +86,8 @@ int bookAppointment()
 	cout<<"\n Please selction correct value from menu A- Z";
 	cout<<"\n Press any key to continue";
 	getchar();getchar();
-	system("clear");
+	system("cls");
+	system("color 56");
 	bookAppointment();
    }
    
@@ -100,7 +102,8 @@ int bookAppointment()
    	cout<<"\n Please select different time !!";
    	cout<<"\n Press any key to continue!!";
    	getchar();getchar();
-   	system("clear");
+   	system("cls");
+	system("color 56");
    	bookAppointment();
    }
    
@@ -128,7 +131,8 @@ int bookAppointment()
 
 int existingAppointment()
 {
-    system("clear");
+    system("cls");
+    system("color 56");
     cout<<"\n ----- Appointments Summary ---- \n";	
     //check if record already exist..
     ifstream read;
@@ -191,8 +195,9 @@ int existingAppointment()
 int main() {
 	while(1)
 	{
-		system("clear");
-		cout<<"\t\t\tDoctor Appointment System\n";
+		system("cls");
+	        system("color 56");
+		cout<<"\tDoctor Appointment System\n";
 		cout<<"----------------------------------------\n\n";
 		
 		cout<<"1. Book Appointment\n";
@@ -210,7 +215,8 @@ int main() {
 			case 0: 
 		        while(1)
 		        {
-				 system("clear");
+				 system("cls");
+				 system("color 56");
 		        	cout<<"\n Are you sure, you want to exit? y | n \n";
 		        	char ex;
 		        	cin>>ex;
@@ -232,6 +238,7 @@ int main() {
 		}   		        
 
 	}
+	system("color 07");
 	return 0;
 }   
 

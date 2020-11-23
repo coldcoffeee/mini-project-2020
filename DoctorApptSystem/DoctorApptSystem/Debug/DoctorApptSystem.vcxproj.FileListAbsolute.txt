@@ -1,0 +1,4 @@
+C:\Users\Mohit\Desktop\mini-project-2020\DoctorApptSystem\DoctorApptSystem\Debug\DoctorApptSystem.Frontend.resources
+C:\Users\Mohit\Desktop\mini-project-2020\DoctorApptSystem\DoctorApptSystem\Debug\DoctorApptSystem.vcxproj.GenerateResource.cache
+C:\Users\Mohit\Desktop\mini-project-2020\DoctorApptSystem\DoctorApptSystem\Debug\DoctorApptSystem.vcxprojAssemblyReference.cache
+C:\Users\Mohit\Desktop\mini-project-2020\DoctorApptSystem\DoctorApptSystem\Debug\DoctorApptSystem.Calculator.resources

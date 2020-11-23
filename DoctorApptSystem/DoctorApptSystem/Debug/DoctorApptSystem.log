@@ -1,0 +1,4 @@
+﻿  Calculator.cpp
+C:\Users\Mohit\Desktop\mini-project-2020\DoctorApptSystem\DoctorApptSystem\Calculator.cpp(13,33): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  Calculator.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  DoctorApptSystem.vcxproj -> C:\Users\Mohit\Desktop\mini-project-2020\DoctorApptSystem\Debug\DoctorApptSystem.exe
